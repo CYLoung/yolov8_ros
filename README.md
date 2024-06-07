@@ -5,7 +5,7 @@ The code can be found in the [code](./save_object_tf_map/detection_3d_update.py)
 
 - green box : our TF object map
 
-- ![result](./docs/img.png)
+  ![result](./docs/img.png)
 
 ---
 

@@ -1,6 +1,145 @@
 - bbox:
     center:
       position:
-        x: 69.18199920654297
-        y: 141.82562255859375
-      theta
+        x: 494.78533935546875
+        y: 415.45855712890625
+      theta: 0.0
+    size:
+      x: 314.2335510253906
+      y: 128.84310913085938
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.15000000000000002
+        y: -0.025693267028084346
+        z: -0.06287340987989631
+    frame_id: camera_link
+    size:
+      x: 0.3
+      y: 0.11204748794745906
+      z: 0.045675409099601105
+  class_id: 66
+  class_name: keyboard
+  id: '673'
+  score: 0.9334811568260193
+- bbox:
+    center:
+      position:
+        x: 67.95346069335938
+        y: 141.47889709472656
+      theta: 0.0
+    size:
+      x: 135.69113159179688
+      y: 108.22543334960938
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.554
+        y: 0.46786054553583023
+        z: 0.1288992269937423
+    frame_id: camera_link
+    size:
+      x: 0.24400000000000013
+      y: 0.17791999200829023
+      z: 0.14233599360663213
+  class_id: 72
+  class_name: refrigerator
+  id: '4'
+  score: 0.7402348518371582
+- bbox:
+    center:
+      position:
+        x: 496.36175537109375
+        y: 361.152099609375
+      theta: 0.0
+    size:
+      x: 277.81884765625
+      y: 107.81414794921875
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.469
+        y: -0.08256571562319714
+        z: -0.13633547557569992
+    frame_id: camera_link
+    size:
+      x: 0.444
+      y: 0.30905361574773366
+      z: 0.11938172160652516
+  class_id: 0
+  class_name: person
+  id: '1081'
+  score: 0.7369483709335327
+- bbox:
+    center:
+      position:
+        x: 330.45501708984375
+        y: 322.20098876953125
+      theta: 0.0
+    size:
+      x: 93.15072631835938
+      y: 120.19583129882812
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.7025
+        y: 0.1537461099583181
+        z: -0.13903585163544718
+    frame_id: camera_link
+    size:
+      x: 0.5730000000000001
+      y: 0.15542128463540064
+      z: 0.20054359307793634
+  class_id: 41
+  class_name: cup
+  id: '1061'
+  score: 0.6102402210235596
+- bbox:
+    center:
+      position:
+        x: 354.64434814453125
+        y: 337.96429443359375
+      theta: 0.0
+    size:
+      x: 74.73934936523438
+      y: 83.56393432617188
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.7460000000000001
+        y: 0.12067401272836611
+        z: -0.17426538843353911
+    frame_id: camera_link
+    size:
+      x: 0.502
+      y: 0.1313263168715824
+      z: 0.1472984364910992
+  class_id: 64
+  class_name: mouse
+  id: '1061'
+  score: 0.5833268165588379

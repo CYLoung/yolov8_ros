@@ -1,4 +1,4 @@
-# yolov8_ros
+# yolov8_ros & Object TF map
 
 ROS 2 wrap for [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection and tracking, instance segmentation and human pose estimation. There are also 3D versions of object detection and human pose estimation based on depth images.
 

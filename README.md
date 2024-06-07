@@ -1,6 +1,6 @@
 # Yolov8 ros & 3D Object TF map
 
-- The original code looks like this, and here I've added a way to represent a three-dimensional object on a map, store the information, and either fix the position on the map for the same object or update it if the object has moved away.
+- here I've added a way to represent a three-dimensional object on a map, store the information, and either fix the position on the map for the same object or update it if the object has moved away.
 The code can be found in the [code](./save_object_tf_map/detection_3d_update.py) section.
 
 - green box : our TF object map

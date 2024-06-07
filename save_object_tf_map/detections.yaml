@@ -1,0 +1,290 @@
+- bbox:
+    center:
+      position:
+        x: 480.3778076171875
+        y: 427.388427734375
+      theta: 0.0
+    size:
+      x: 318.403564453125
+      y: 104.1983642578125
+  bbox3d:
+    center:
+      position:
+        x: 0
+        y: 0
+        z: 0
+    size:
+      x: 0
+      y: 0
+      z: 0
+  class_id: 66
+  class_name: keyboard
+  id: ''
+  score: 0.9441002011299133
+- bbox:
+    center:
+      position:
+        x: 431.270751953125
+        y: 361.6663513183594
+      theta: 0.0
+    size:
+      x: 109.071533203125
+      y: 39.004150390625
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.5369999999999999
+        y: 0.03193406157014167
+        z: -0.1586576342607965
+    size:
+      x: 0.35600000000000004
+      y: 0.1303033780219559
+      z: 0.0459894275371609
+  class_id: 64
+  class_name: mouse
+  id: ''
+  score: 0.9349413514137268
+- bbox:
+    center:
+      position:
+        x: 394.82098388671875
+        y: 277.8245544433594
+      theta: 0.0
+    size:
+      x: 490.1151123046875
+      y: 310.6014404296875
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.4615
+        y: -0.14821574748694555
+        z: -0.1319595206070388
+    size:
+      x: 0.5150000000000001
+      y: 0.17675788589656333
+      z: 0.21298776313002044
+  class_id: 0
+  class_name: person
+  id: ''
+  score: 0.8382154703140259
+- bbox:
+    center:
+      position:
+        x: 69.52284240722656
+        y: 142.45166015625
+      theta: 0.0
+    size:
+      x: 138.37594604492188
+      y: 110.4482421875
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.5564999999999998
+        y: 0.4673240832148396
+        z: 0.12948090220580777
+    size:
+      x: 0.24700000000000014
+      y: 0.18269449961573286
+      z: 0.1443021772327165
+  class_id: 72
+  class_name: refrigerator
+  id: ''
+  score: 0.7807469964027405
+- bbox:
+    center:
+      position:
+        x: 291.62298583984375
+        y: 326.2904052734375
+      theta: 0.0
+    size:
+      x: 72.82521057128906
+      y: 100.35107421875
+  bbox3d:
+    center:
+      orientation:
+        w: 1.0
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      position:
+        x: 0.7235
+        y: 0.22374593441367596
+        z: -0.13802862123622628
+    size:
+      x: 0.561
+      y: 0.12564424840104085
+      z: 0.19276925782077492
+  class_id: 41
+  class_name: cup
+  id: ''
+  score: 0.7149487137794495
+- bbox:
+    center:
+      position:
+        x: 479.69189453125
+        y: 427.69305419921875
+      theta: 0.0
+    size:
+      x: 319.391845703125
+      y: 103.4385986328125
+  class_id: 66
+  class_name: keyboard
+  id: ''
+  score: 0.9458461403846741
+- bbox:
+    center:
+      position:
+        x: 431.60675048828125
+        y: 361.169921875
+      theta: 0.0
+    size:
+      x: 109.6488037109375
+      y: 39.625244140625
+  class_id: 64
+  class_name: mouse
+  id: ''
+  score: 0.9380221366882324
+- bbox:
+    center:
+      position:
+        x: 383.6116027832031
+        y: 288.4371032714844
+      theta: 0.0
+    size:
+      x: 511.46478271484375
+      y: 303.55755615234375
+  class_id: 0
+  class_name: person
+  id: ''
+  score: 0.8388426899909973
+- bbox:
+    center:
+      position:
+        x: 69.09951782226562
+        y: 141.55593872070312
+      theta: 0.0
+    size:
+      x: 137.52728271484375
+      y: 108.66565704345703
+  class_id: 72
+  class_name: refrigerator
+  id: ''
+  score: 0.6786677241325378
+- bbox:
+    center:
+      position:
+        x: 479.7936706542969
+        y: 427.52606201171875
+      theta: 0.0
+    size:
+      x: 319.14703369140625
+      y: 103.65771484375
+  class_id: 66
+  class_name: keyboard
+  id: ''
+  score: 0.9441627860069275
+- bbox:
+    center:
+      position:
+        x: 384.0845031738281
+        y: 304.9775695800781
+      theta: 0.0
+    size:
+      x: 510.51470947265625
+      y: 278.1024169921875
+  class_id: 0
+  class_name: person
+  id: ''
+  score: 0.8907511234283447
+- bbox:
+    center:
+      position:
+        x: 66.05961608886719
+        y: 142.07839965820312
+      theta: 0.0
+    size:
+      x: 131.61569213867188
+      y: 109.8502197265625
+  class_id: 72
+  class_name: refrigerator
+  id: ''
+  score: 0.7707604765892029
+- bbox:
+    center:
+      position:
+        x: 429.36602783203125
+        y: 362.1599426269531
+      theta: 0.0
+    size:
+      x: 104.84423828125
+      y: 38.13726806640625
+  class_id: 64
+  class_name: mouse
+  id: ''
+  score: 0.7122093439102173
+- bbox:
+    center:
+      position:
+        x: 479.8662109375
+        y: 427.629638671875
+      theta: 0.0
+    size:
+      x: 319.275634765625
+      y: 103.47021484375
+  class_id: 66
+  class_name: keyboard
+  id: ''
+  score: 0.9491223096847534
+- bbox:
+    center:
+      position:
+        x: 430.9400634765625
+        y: 361.3784484863281
+      theta: 0.0
+    size:
+      x: 108.7874755859375
+      y: 39.39080810546875
+  class_id: 64
+  class_name: mouse
+  id: ''
+  score: 0.8735775351524353
+- bbox:
+    center:
+      position:
+        x: 387.93572998046875
+        y: 299.864013671875
+      theta: 0.0
+    size:
+      x: 503.4610595703125
+      y: 292.4317626953125
+  class_id: 0
+  class_name: person
+  id: ''
+  score: 0.8382440209388733
+- bbox:
+    center:
+      position:
+        x: 69.3004150390625
+        y: 141.56686401367188
+      theta: 0.0
+    size:
+      x: 137.90673828125
+      y: 109.04381561279297
+  class_id: 72
+  class_name: refrigerator
+  
